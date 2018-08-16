@@ -1,0 +1,23 @@
+body {
+    height: 100%;
+}
+
+#scoreButton {
+    width: 20em;
+    height: 5em;
+    display: table;
+    border:1px solid blue;
+    border-radius: 2%;
+    margin: 10% auto 0% auto;
+}
+
+#score {
+    width: 45%;
+    display: table;
+    margin: 5% auto 0% auto;
+    border: 1px solid blanchedalmond;
+}
+
+#actualScore {
+    text-align: center;
+}
